@@ -53,7 +53,7 @@
 ## 🏆 GitHub Trophies  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aniszidane&theme=radical&column=6&margin-w=10&margin-h=10&no-frame=true&title=Commits,Stars,Followers,Repositories,PullRequest,Issues" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Zidanlo&theme=radical&column=6&margin-w=10&margin-h=10&no-frame=true&title=Commits,Stars,Followers,Repositories,PullRequest,Issues" />
 </p>
 
 ---
