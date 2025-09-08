@@ -10,7 +10,7 @@
 </h1>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer;Cyberpunk+%7C+Creative+%7C+Minimalist;Python+%7C+Node.js+%7C+React+%7C+MongoDB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=anis+zidane;Full+Stack+Web+Developer;Cyberpunk+%7C+Creative+%7C+Minimalist;Python+%7C+Node.js+%7C+React+%7C+MongoDB" alt="Typing SVG" />
 </h1>
 
 <!-- 🔥 Hacker Coding GIF -->
