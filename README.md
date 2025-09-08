@@ -43,7 +43,7 @@
 <div align="center">
 
 ![Anis Zidane's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zidanlo&show_icons=true&theme=radical&title_color=FF0000&icon_color=FF0000&bg_color=0d1117&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aniszidane&layout=compact&theme=radical&title_color=FF0000&bg_color=0d1117&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zidanlo&layout=compact&theme=radical&title_color=FF0000&bg_color=0d1117&hide_border=true)  
 ![Streak Stats](https://streak-stats.demolab.com?user=aniszidane&theme=radical&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&background=0d1117&hide_border=true)
 
 </div>
