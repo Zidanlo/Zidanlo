@@ -1,80 +1,29 @@
 
-## anis zidane *code*
-#Anis-zidanlo
-<!--
-
-  🔥 ANIS ZIDANE — Professional GitHub README
--->
-
-<h1 align="center" style="font-size:50px; font-weight:bold; color:#FF0000;">
-  ANIS ZIDANE
-</h1>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=anis+zidane;wtf;Full+Stack+Web+Developer;Cyberpunk+%7C+Creative+%7C+Minimalist;Python+%7C+Node.js+%7C+React+%7C+MongoDB" alt="Typing SVG" />
-</h1>
-
-<!-- 🔥 Hacker Coding GIF -->
 <p align="center">
-  <img src="https://i.gifer.com/3HeK.gif" width="820" alt="Hacker Coding - Anis Zidane" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=340&section=header&text=ANIS&fontSize=75&fontColor=ff0000&animation=fadeIn&desc=BLACK%20OPS%20RED%20TEAM&descAlignY=65"/>
+</p>
+
+<h1 align="center">☠️ DEVARAB TOOLS ☠️</h1>
+<h3 align="center">OFFENSIVE SECURITY • RED TEAM • CYBER WARFARE</h3>
+
+<p align="center">
+  <i>"You didn’t secure it. You just never saw me."</i>
 </p>
 
 ---
 
-## 👨‍💻 About Me  
-
-> 🔴 **Full Stack Web Developer** — I build apps from scratch, fix what’s broken, and optimize what works.  
-> 💡 Passionate about creating **modern, fast, scalable applications** — no quick hacks, only clean solutions.  
-> ⚡ Currently exploring: **Python • Node.js • React • MongoDB • Cyberpunk UI Design**  
-
-> 🎯 *"Clean code isn’t a luxury — it’s respect for the next developer who reads it."*  
-
----
-
-## 🛠️ Tech Stack  
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,php,nodejs,react,html,css,mysql,mongodb,git,github,vscode,figma,linux,docker" alt="tech icons" />
-</div>
-
----
-
-## 📊 GitHub Analytics  
-
-<div align="center">
-
-![Anis Zidane's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zidanlo&show_icons=true&theme=radical&title_color=FF0000&icon_color=FF0000&bg_color=0d1117&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zidanlo&layout=compact&theme=radical&title_color=FF0000&bg_color=0d1117&hide_border=true)  
-![Streak Stats](https://streak-stats.demolab.com?user=Zidanlo&theme=radical&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&background=0d1117&hide_border=true)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies  
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Zidanlo&theme=radical&column=6&margin-w=10&margin-h=10&no-frame=true&title=Commits,Stars,Followers,Repositories,PullRequest,Issues" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3E1eXFhZ3FkbTJjY3k3bGd5M2F0dXB3cXpybGJ5MTR6dWl2bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o6Zt481isNVuQI1l6/giphy.gif" width="430"/>
 </p>
 
 ---
 
-## 📜 Random Developer Quote  
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Clean+Code+Always+Wins&author=Anis+Zidane" alt="Random Dev Quote"/>
-</p>
-
----
-
-## 🐍 Python Signature  
-
-```python
-def anis_signature():
-    name = "Anis Zidane"
-    role = "Full Stack Developer"
-    skills = ["Python", "JavaScript", "PHP", "Node.js"]
-    return f"{name} - {role} | Skills: {', '.join(skills)}"
-
-print(anis_signature())
-
+```bash
+████ BLACK OPS TERMINAL ████
+project     : devarab-tools
+operator    : anis
+access      : root
+privilege   : maximum
+stealth     : enabled
+logging     : disabled
+status      : hunting
